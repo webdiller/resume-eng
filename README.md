@@ -1,4 +1,4 @@
-# Eugene Butkov - web developer
+# Eugene Butkov - Web Developer
    
    
 ### INFO:
@@ -14,7 +14,9 @@ CSS: 6/10
 JS/ 3/10   
 PHP: 2/10   
 NODEJS: 2/10   
+EXPRESS.JS: 1/10
 WORDPRESS: 3/10   
+JAVA: 2/10
    
    
 ### LANGUAGES:
