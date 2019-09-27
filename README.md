@@ -26,3 +26,4 @@ English: middle
    
 ### EPLOYTMENT HISTORY:
 From 2018 to date: freelance front end web development   
+From 2015 to 2017: learning java, angular from time to time
