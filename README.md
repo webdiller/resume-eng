@@ -25,7 +25,7 @@ Sass/scss
 
 ### PROJECTS:  
 1. [project](https://github.com/webdiller/weather-app)[ - websilte](https://webdiller.github.io/weather-app/)     
-2. [Landing page - carving decor] (https://ornate-carving.com/)    
+2. [Landing page - carving decor](https://ornate-carving.com/)    
 3. [Landing page - fruits](https://webdiller.github.io/fruits/) 
 4. [Landing page - quadrocopters](https://webdiller.github.io/mars/)   
 5. [Escort agency - multipage website](http://test.webdiller.ru/)    
